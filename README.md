@@ -23,7 +23,7 @@ All queries used in this analysis are included in the `Walmart_SQL_Project.sql` 
 ## 📸 Screenshots
 Here are some sample outputs from the project:
 
-![Branch Sales](./Screenshots/branch_sales.png)
+![Branch Sales](https://github.com/harshsharma494382/SQL-Ad-Hoc-Analysis-on-Walmart-Data/blob/main/Screenshot%202025-02-20%20102843%20-%20Copy%20(2).png)
 ![Payment Method](./Screenshots/payment_method.png)
 
 ## 🔍 Conclusion
