@@ -23,8 +23,9 @@ All queries used in this analysis are included in the `Walmart_SQL_Project.sql` 
 ## 📸 Screenshots
 Here are some sample outputs from the project:
 
-![Branch Sales](https://github.com/harshsharma494382/SQL-Ad-Hoc-Analysis-on-Walmart-Data/blob/main/Screenshot%202025-02-20%20102843%20-%20Copy%20(2).png)
-![Payment Method](./Screenshots/payment_method.png)
+![Craeting Database](https://github.com/harshsharma494382/SQL-Ad-Hoc-Analysis-on-Walmart-Data/blob/main/Screenshot%202025-02-20%20102843%20-%20Copy%20(2).png)
+![Feature Engineering](https://github.com/harshsharma494382/SQL-Ad-Hoc-Analysis-on-Walmart-Data/blob/main/Screenshot%202025-02-20%20102925.png)
+![](https://github.com/harshsharma494382/SQL-Ad-Hoc-Analysis-on-Walmart-Data/blob/main/Screenshot%202025-02-20%20102958.png)
 
 ## 🔍 Conclusion
 This project helped me gain hands-on experience in SQL querying, data analysis, and interpreting real-world datasets.
